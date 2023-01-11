@@ -1,6 +1,6 @@
 #python 3.7.1
 #copyright 2023 2024 by glox studio 
-print ("Welcome to Fast Calc BETA")
+print ("Welcome to Fast Calculator")
 
 # Define constants 
 PI = 3.14159
@@ -25,8 +25,8 @@ def exponent(num1, num2):
     return num1 ** num2
 
 # Get user input
-print("This program implements an advanced calculator capable of performing basic arithmetic operations, exponentials, scientific notation,By glox studio ")
-print ("_____________________________________________________________________________________________________________________________________________ ")
+print("This program implements an advanced calculator capable of performing basic arithmetic operations, exponentials, scientific notation,By glox studio and BlackFace11 ")
+
 num1 = input("enter the first number: ")
 num2 = input("enter the second number: ")
 operation = input("(+, -, *, /, %, **): ")
